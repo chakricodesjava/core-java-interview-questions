@@ -1,4 +1,4 @@
-SECTION 4: EXCEPTIONS & ERROR HANDLING (Q41–Q50) — Slide Outline
+QA EXCEPTIONS & ERROR HANDLING 
 
 Q41. Checked vs Unchecked
 - Key: Checked = declare/catch; Unchecked = programmer bugs
